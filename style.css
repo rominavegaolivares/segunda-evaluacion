@@ -1,0 +1,17 @@
+body{background: #FCFFFF;}
+h1,h2,h3,h4,h5,h6{font-family: 'Taviraj', serif;}
+.navbar{background-color:#49C2C7;border:0;color:#ffffff; }
+.navbar a{color:white;}
+h1{font-size:1.8em; color:#FA339A;}
+h2{font-size:1.8em; color:#69C1FF;}
+h3{font-size:1.5em; color:#FA339A;}
+h4{font-size:1.2em; color:#69C1FF;}
+h5,h6{font-size:1em; color:#69C1FF}
+.navbar-inverse .navbar-brand {
+    color: #ffffff;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: #ffffff;
+}
+
+.carousel-caption h2{color:#ffffff;}
